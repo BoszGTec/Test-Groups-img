@@ -1,0 +1,3 @@
+0 Anime img
+1 Background/Wallpaper img
+2 Other
