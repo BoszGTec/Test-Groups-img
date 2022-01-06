@@ -2,3 +2,5 @@
 ### ทดลองจัดหมวดหมู่รูปภาพโดยใช้AI
 
 ![img](https://raw.githubusercontent.com/BoszGTec/Test-Groups-img/main/screenshot/screenshot%2001.jpeg)
+
+มีตัวการ์ตูน กับ ไม่มี
