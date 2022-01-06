@@ -1,1 +1,4 @@
-### โมเดลฝึกมาจาก [TeachableMachine](https://teachablemachine.withgoogle.com/) !!
+### โมเดลแยกได้แค่รูปที่มีตัวละครอนิเมะกับไม่มีเท่านั้น!!
++ แบ่งภาพเป็น2โฟรเดอร์ <br>
+  + Anime = มีตัวละครanime
+  + Other = ไม่มี
