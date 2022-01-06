@@ -1,0 +1,3 @@
+0 | Anime
+1 | Other
+2 | Ohter
