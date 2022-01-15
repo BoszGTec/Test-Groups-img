@@ -4,3 +4,5 @@
 ![img](https://raw.githubusercontent.com/BoszGTec/Test-Groups-img/main/screenshot/screenshot%2001.jpeg)
 
 มีตัวการ์ตูน กับ ไม่มี
+<br>
+by [bossgeeg](mailto:bossgeeg123456@gmail.com)
