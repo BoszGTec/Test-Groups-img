@@ -5,4 +5,4 @@
 
 มีตัวการ์ตูน กับ ไม่มี
 <br>
-by [bossgeeg](mailto:bossgeeg123456@gmail.com)
+by [bossgeeg123456](mailto:bossgeeg123456@gmail.com)
